@@ -8,10 +8,11 @@
 ## 🏆 Hackathon Overview
 
 - **Team Name:** VISION X
-- **Team Members:** 1.
-- **                 ** 2.
--   **             **   3.
--   **               ** 4.
+- **Team Members:** 
+- **    1:             ** 
+-   **   2:          **   
+-   **   3:            **
+-   **  4: **
 -              
 - **Official Track:** Automated FactChecking & Misinformation  
 - **Mandate:** *"Build a claim-verification platform that compares a statement against trusted sources, identifies contradictory evidence, and traces how a claim changes as it spreads."*
