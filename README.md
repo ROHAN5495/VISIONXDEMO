@@ -9,10 +9,10 @@
 
 - **Team Name:** VISION X
 - **Team Members:** 
-- **    1:             ** 
--   **   2:          **   
--   **   3:            **
--   **  4: **
+- **1:** Debabrata Mahanta
+- **2:** Priyanshu Barik
+- **3:** Debadyuti Mallick
+- **4:** Soumya Ranjan Behera
 -              
 - **Official Track:** Automated FactChecking & Misinformation  
 - **Mandate:** *"Build a claim-verification platform that compares a statement against trusted sources, identifies contradictory evidence, and traces how a claim changes as it spreads."*
