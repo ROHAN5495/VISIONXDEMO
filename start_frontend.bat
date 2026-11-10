@@ -7,5 +7,5 @@ echo ===================================================
 cd /d "%~dp0"
 set PATH=%~dp0.tools\node;%PATH%
 cd frontend
-call npm run dev
+call npm run dev -- --host
 pause
